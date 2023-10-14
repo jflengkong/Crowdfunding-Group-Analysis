@@ -13,7 +13,7 @@ For the ETL mini project, we worked within a group to practice building an ETL p
 ### The instructions for this mini project are divided into the following subsections:
 - [Part 1:](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-1-Create-the-Category-and-Subcategory-DataFrames) Create the Category and Subcategory DataFrames 
 - [Part 2: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-2-Create-the-Campaign-DataFrame)Create the Campaign DataFrame
-- [Part 3: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/mainPart-3-Create-the-Crowdfunding-Database)Create-the-Contacts DataFrame
+- [Part 3: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-3-Create-the-Crowdfunding-Database)Create-the-Contacts DataFrame
 - [Part 4: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-4-Create-the-Crowdfunding-Database)Create the Crowdfunding Database
 
 ## Contents: 
