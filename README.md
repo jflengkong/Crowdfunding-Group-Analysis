@@ -11,10 +11,10 @@
 For the ETL mini project, we worked within a group to practice building an ETL pipeline using Python, Pandas, and either Python dictionary methods or regular expressions to extract and transform the data. After transforming the data, we will create four CSV files and use the CSV file data to create an ERD and a table schema. Finally, we are required to upload the CSV file data into a Postgres database.
 
 ### The instructions for this mini project are divided into the following subsections:
-- Part 1: Create the Category and Subcategory DataFrames
-- Part 2: Create the Campaign DataFrame
-- Part 3: Create the Contacts DataFrame
-- Part 4: Create the Crowdfunding Database
+- [Part 1:](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-1-Create-the-Category-and-Subcategory-DataFrames) Create the Category and Subcategory DataFrames 
+- [Part 2: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-2:-Create-the-Campaign-DataFrame)Create the Campaign DataFrame
+- [Part 3: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/mainPart-3:-Create-the-Crowdfunding-Database)Create-the-Contacts DataFrame
+- [Part 4: ](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/tree/main#Part-4:-Create-the-Crowdfunding-Database)Create the Crowdfunding Database
 
 ## Contents: 
 1. `Images`  - Folder for screenshots of results
@@ -22,7 +22,7 @@ For the ETL mini project, we worked within a group to practice building an ETL p
 3. [`Jupyter Notebook for ETL`](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/blob/main/ETL_Mini_Project_Grp_1.ipynb)
 4. [`crowdfunding_db_schema`](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/blob/main/crowdfunding_db_schema.sql) and [`crowdfunding_db`](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/blob/main/crowdfunding_db.sql)
   
-## Part 1 - Create the Category and Subcategory DataFrames
+## Part 1 Create the Category and Subcategory DataFrames
 Instructions: Extract and transform the crowdfunding.xlsx Excel data to create a category DataFrame that has the following columns:
 - A "category_id" column that has entries going sequentially from "cat1" to "catn", where n is the number of unique categories
 - A "category" column that contains only the category titles
