@@ -110,7 +110,7 @@ A crowdfunding database ERD was created using [QuickDBD](https://www.quickdataba
 ![erd](https://github.com/jflengkong/Crowdfunding_ETL_Grp_1/blob/main/crowdfunding_ERD.png) 
 
 ## Conclusion
-Through this challenge we were able to complete the pathway of ETL - Extracting, Transforming and Loading data from a source of information. This allows us to be able to work with large foiles and simplify the querying of information where required instead of trolling through a large and extensive database. 
+Through this challenge we were able to complete the pathway of ETL - Extracting, Transforming and Loading data from a source of information. This allows us to be able to work with large files and simplify the querying of information where required instead of trolling through a large and extensive database. 
 
 ## References
 [1] QUICKDBD - [Quick DBD](https://www.quickdatabasediagrams.com/) 
