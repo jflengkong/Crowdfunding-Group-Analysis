@@ -42,7 +42,14 @@ CREATE TABLE campaign_merged (
     FOREIGN KEY (subcategory_id) REFERENCES subcategory(subcategory_id)
 );
 
--- Viewing the tables 
+-- To import files into tables made in the schemas above follow the steps below: 
+-- 1. Right click on table schema in PostGres, Select Import/Export Data, Import category.csv from file, 
+-- check Columns match columns from schema and Select OK. Confirm successful import. 
+
+-- 2. Repeat the process above for the rest of the tables and ensure to follow the order below: 
+--- : 1)'category', 2)'subcategory', 3)'contacts' then 4)'campaign_merged'. 
+
+-- Viewing the tables and verifying the data imported in each table. 
 SELECT * FROM campaign_merged;
 SELECT * FROM category;	
 SELECT * FROM subcategory;
